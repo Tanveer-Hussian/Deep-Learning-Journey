@@ -1,4 +1,4 @@
-#🧠 Deep Learning Projects & Learning
+**🧠 Deep Learning Projects & Learning**
 
 Welcome to my Deep Learning Repository 🚀
 This repository documents my journey of learning, experimenting, and building projects using Deep Learning and Neural Networks.
@@ -14,7 +14,8 @@ It includes concept implementations, practice notebooks, and real-world projects
 🏗️ Build real-world deep learning projects
 
 📈 Track my learning progress and improvements
-/br
+
+
 
 **🛠️ Technologies & Tools**
 
@@ -31,7 +32,8 @@ Pandas
 Matplotlib & Seaborn
 
 Google Colab
-/br
+
+
 
 **🧩 Topics Covered**
 
@@ -54,7 +56,7 @@ Google Colab
 🔹 Transfer Learning
 
 🔹 Model Evaluation & Tuning
-/br
+
 
 
 **🚀 Sample Projects**
@@ -64,7 +66,7 @@ Google Colab
 🖼️ Image Classification using CNN
 
 (Projects will be added and improved continuously)
-/br
+
 
 
 **📖 Learning Resources**
@@ -74,7 +76,7 @@ TensorFlow & PyTorch Official Documentation
 Research Papers & Blogs
 
 YouTube & Online Courses
-/br
+
 
 
 **📊 Current Status**
@@ -82,7 +84,8 @@ YouTube & Online Courses
 🟢 Actively Learning & Building
 This repository is continuously updated with new concepts and projects.
 
-🤝 Contributions
+
+**🤝 Contributions**
 
 Suggestions, improvements, and discussions are always welcome!
 Feel free to fork, star ⭐, or open an issue.
